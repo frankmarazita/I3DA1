@@ -1,0 +1,23 @@
+I3D Assignment 01 - Island Defence
+s3717437 - Frank Marazita
+
+- To Complile run 'make'
+- To clear files run 'make clear'
+- To run, run the 'id' file
+- Was made for operation on linux
+
+Controls (Some control changes due to capital letter detection issues):
+q: Toggle wireframe mode on/off
+n: Toggle normal visualisation on/off
+t: Toggle tangent visualisation on/off
+w/s: Left cannon rotate up/down
+a/d: Left boat move left/right
+i/k: Right cannon rotate up/down
+j/l: Right boat move left/right
+e/o: Left/right boat fire
+r/p: Left/right boat defence fire
+g: Toggle all animation on/off
++/-: Double/halve wave tesselation
+f/h: rotate island cannon
+' ' (space): fire island cannon
+Esc: Quit the program
